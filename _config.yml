@@ -40,15 +40,13 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: 
+    url: https://github.com/ryan-muller
   - title: facebook
-    url:
+    url:https://github.com/ryan-muller
   - title: stack-overflow
-    url: 
- - title: bitbucket
-    url: 
+    url: https://github.com/ryan-muller
   - title: github
-    url: 
+    url: https://github.com/ryan-muller
 
 # Postal address (add as many lines as necessary)
 address:
