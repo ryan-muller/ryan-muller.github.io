@@ -1,9 +1,9 @@
 # Site settings
-title: Unity Developer
+title: Ryan Muller's Portfolio
 email: ryrmuller@gmail.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+url: https://github.com/ryan-muller
+description: "The Impressive Portfolio of Game Developer Ryan Muller."
+keywords: "freelance, Unity, Unity3D, Game Developer, games, developer, software, vr, quest2"
 skills: "Unity Developer - VR Developer - User Experience Designer"
 meta_author: Muller Ryan
 
@@ -40,15 +40,13 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: 
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: 
   - title: github
-    url: http://github.com/jekyll
+    url: 
 
 # Postal address (add as many lines as necessary)
 address:
