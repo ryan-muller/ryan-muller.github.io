@@ -50,11 +50,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-<<<<<<< HEAD
   - line: Johannesburg
-=======
   - line: Pretoria
->>>>>>> parent of 751c0bc (Changed to different template)
   - line: South Africa
 
 # Credits content
